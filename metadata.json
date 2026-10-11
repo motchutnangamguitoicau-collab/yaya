@@ -1,0 +1,6 @@
+{
+  "name": "StudentShield Bot & Database",
+  "description": "StudentShield real-time risk lookup and verification platform protecting students from recruitment fraud, fake task scams, and suspicious accounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
